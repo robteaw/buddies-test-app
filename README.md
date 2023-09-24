@@ -1,1 +1,0 @@
-# buddies-test-app
